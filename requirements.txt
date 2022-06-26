@@ -1,0 +1,5 @@
+# install the packages using 'pip install -r requirements.txt'
+
+pyfiglet==0.8.post1                                                     
+requests==2.25.1
+termcolor==1.1.0                                                                
